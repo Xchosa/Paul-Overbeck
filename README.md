@@ -1,9 +1,11 @@
 # Paul-Overbeck
 
-Hi there, I'm Paul :waving_hand: 
-
+Hi there, I'm Paul👋
  - 🌱 I’m currently learning C & C++
  - 💬 Ask me about 42 school, especially 42 Heilbronn
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xchosa&theme=github-compact&custom_title=My%20GitHub%20Contributions%20(Last%2030%20days))
 
 Languages
 

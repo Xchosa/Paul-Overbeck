@@ -5,10 +5,7 @@ Hi there, I'm Paul👋
  - 💬 Ask me about 42 school, especially 42 Heilbronn
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xchosa&theme=github-compact&custom_title=My%20GitHub%20Contributions%20(Last%2030%20days))
-
-Languages
-
+Languages I speak
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 Frameworks & Technologies
@@ -20,6 +17,7 @@ Tools I use
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xchosa&theme=github-compact&custom_title=My%20GitHub%20Contributions%20(Last%2030%20days))
 
 42 Projects
 

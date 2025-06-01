@@ -6,17 +6,21 @@ Hi there, I'm Paul :waving_hand:
  - 💬 Ask me about 42 school, especially 42 Heilbronn
 
 Languages
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 Frameworks & Technologies
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 Tools I use
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 42 Projects
+
 | Project         | Description                                                                 | Core Grade                                          | Bonus Grade                                      |
 |-----------------|-----------------------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------|
 | libft           | Recreation of standard C Libraries to use in Future projects.               | ![Core 100](https://img.shields.io/badge/Core-100%25-brightgreen?style=for-the-badge) | / |

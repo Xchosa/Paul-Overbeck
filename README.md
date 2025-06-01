@@ -17,6 +17,8 @@ Tools I use
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xchosa&theme=github-compact&custom_title=My%20GitHub%20Contributions%20(Last%2030%20days))
 

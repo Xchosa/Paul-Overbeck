@@ -20,7 +20,6 @@ Tools I use
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Paul-Overbeck&theme=github-compact&custom_title=My%20GitHub%20Contributions%20(Last%2030%20days))
 
 42 Projects
 

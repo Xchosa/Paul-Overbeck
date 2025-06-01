@@ -1,4 +1,3 @@
-# Paul-Overbeck
 
 Hi there, I'm Paul👋
  - 🌱 I’m currently learning C & C++

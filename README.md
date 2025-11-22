@@ -66,8 +66,6 @@ Visit my selfmade Website: https://xchosa.github.io/website_portfolio/
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xchosa&hide=html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![Xchosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xchosa&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xchosa&hide=html,css&layout=compact&theme=tokyonight&hide_title=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Xchosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xchosa&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

@@ -32,15 +32,18 @@ Visit my selfmade Website: https://xchosa.github.io/website_portfolio/
 
 [<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/libfte.png" width="100">](https://github.com/Xchosa/Mylibft_42)
 [<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/get_next_linen.png" width="100">](https://github.com/Xchosa/get_next_Line)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/ft_printfn.png" width="100">](https://github.com/Xchosa/printf42)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/born2berootn.png" width="100">]
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/so_longe.png" width="100">](https://github.com/Xchosa/so_long)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/pipexe.png" width="100">](https://github.com/Xchosa/pipex_42)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/push_swape.png" width="100">](https://github.com/Xchosa/push_swap42)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/philosopherse.png" width="100">](https://github.com/Xchosa/Philosophers)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/minishelle.png" width="100">](https://github.com/Xchosa/minishell)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/netpracticee.png" width="100">](https://github.com/Xchosa/NetPractice)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/cub3de.png" width="100">](https://github.com/Xchosa/cub3d)
+
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/libfte.png" width="100">](https://github.com/Xchosa/Mylibft_42)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/get_next_linen.png" width="100">](https://github.com/Xchosa/get_next_Line)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/ft_printfn.png" width="100">](https://github.com/Xchosa/printf42)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/born2berootn.png" width="100">](https://github.com/Xchosa/born2beRoot)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/so_longe.png" width="100">](https://github.com/Xchosa/so_long)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/pipexe.png" width="100">](https://github.com/Xchosa/pipex_42)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/push_swape.png" width="100">](https://github.com/Xchosa/push_swap42)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/philosopherse.png" width="100">](https://github.com/Xchosa/Philosophers)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/minishelle.png" width="100">](https://github.com/Xchosa/minishell)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/netpracticee.png" width="100">](https://github.com/Xchosa/NetPractice)
+[<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/cub3de.png" width="100">](https://github.com/Xchosa/cub3d)
 
 </div>
 

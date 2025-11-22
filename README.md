@@ -30,9 +30,6 @@ Visit my selfmade Website: https://xchosa.github.io/website_portfolio/
 
 <div align="center">
 
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/libfte.png" width="100">](https://github.com/Xchosa/Mylibft_42)
-[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/get_next_linen.png" width="100">](https://github.com/Xchosa/get_next_Line)
-
 [<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/libfte.png" width="100">](https://github.com/Xchosa/Mylibft_42)
 [<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/get_next_linen.png" width="100">](https://github.com/Xchosa/get_next_Line)
 [<img src="https://raw.githubusercontent.com/Xchosa/Paul-Overbeck/main/42_badges/ft_printfn.png" width="100">](https://github.com/Xchosa/printf42)

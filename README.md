@@ -36,7 +36,8 @@ Visit my selfmade Website: https://xchosa.github.io/website_portfolio/
 | Pipex        | Reproduces the behaviour of the shell pipe command in C.         | ![Core 100](https://img.shields.io/badge/Core-100%25-brightgreen?style=for-the-badge)      |      |
 | Philosophers | Explore multithreading and process synchronization, inspired by Dijkstra's classic Dining Philosophers problem.       | ![Core 100](https://img.shields.io/badge/Core-100%25-brightgreen?style=for-the-badge)      |                                                                                          |
 | minishell    | Making of a custom shell with logical and, logical or, brackets for priorities, ’, ", <, >, <<, >>, pipes, ?, a history, echo, cd, pwd, export, unset, env, exit, correct executable execution, and a bunch more. | ![Core 100](https://img.shields.io/badge/Core-100%25-brightgreen?style=for-the-badge)      |                                                                                          |
-
+| cub3d        | 3D maze game using raycasting engine, inspired by Wolfenstein 3D.                                                   | ![Core 100](https://img.shields.io/badge/Core-100%25-brightgreen?style=for-the-badge)      |                                                                                          |
+| netpractice | Introduction to networking through configuration of small networks and understanding of IP addressing, routing, and subnetting. | ![Core 100](https://img.shields.io/badge/Core-100%25-brightgreen?style=for-the-badge)      |                                                                                          |
 
 
 
@@ -44,6 +45,6 @@ Visit my selfmade Website: https://xchosa.github.io/website_portfolio/
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xchosa&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![Xchosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xchosa&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xchosa&hide=html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![Xchosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xchosa&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

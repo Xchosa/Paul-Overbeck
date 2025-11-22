@@ -30,8 +30,8 @@ Visit my selfmade Website: https://xchosa.github.io/website_portfolio/
 
 <div align="center">
 
-[<img src="https://github.com/Xchosa/Paul-Overbeck/msin/42_badges/libfte.png" width="100">](https://github.com/Xchosa/Mylibft_42)
-[<img src="https://github.com/Xchosa/Xchosa/blob/main/42_badges/get_next_linee.png" width="100">](https://github.com/Xchosa/get_next_Line)
+[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/libfte.png" width="100">](https://github.com/Xchosa/Mylibft_42)
+[<img src="https://github.com/Xchosa/Paul-Overbeck/blob/main/42_badges/get_next_linen.png" width="100">](https://github.com/Xchosa/get_next_Line)
 [<img src="https://github.com/Xchosa/Xchosa/blob/main/42_badges/ft_printfe.png" width="100">](https://github.com/Xchosa/printf42)
 [<img src="https://github.com/Xchosa/Xchosa/blob/main/42_badges/born2beroote.png" width="100">]
 [<img src="https://github.com/Xchosa/Xchosa/blob/main/42_badges/soalonge.png" width="100">](https://github.com/Xchosa/so_long)
